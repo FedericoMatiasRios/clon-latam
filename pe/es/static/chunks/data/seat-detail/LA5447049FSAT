@@ -1,0 +1,28 @@
+{
+    "status": 200,
+    "data": {
+        "itinerary": [
+            {
+                "origin": "La Habana",
+                "destination": "Lima",
+                "segments": [
+                    {
+                        "origin": "La Habana",
+                        "destination": "Lima",
+                        "seats": [
+                            {
+                                "passengerIndex": 1,
+                                "seatCode": "3E",
+                                "seatType": null,
+                                "cabinDeck": "Economy",
+                                "seatCharacteristics": [],
+                                "passengerName": "D***** G******* M******"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "message": "OK"
+}

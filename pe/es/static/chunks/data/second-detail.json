@@ -1,0 +1,487 @@
+{
+    "status": 200,
+    "message": "OK",
+    "data": {
+        "order": {
+            "id": "LA5447049FSAT",
+            "countryCode": "PE",
+            "fantasyName": "",
+            "userId": null,
+            "userEmail": "THE•••••••••@G••••.COM",
+            "trackingId": null,
+            "": "OQRRPI",
+            "commercialException": null,
+            "status": "FULFILLED",
+            "refunded": "NONE",
+            "incident": null,
+            "older": true,
+            "inContingency": true,
+            "directSale": false,
+            "creationDateTime": "2024-09-11T22:08:35.514",
+            "updateDateTime": "2024-11-26T06:26:58.022",
+            "paymentSummary": {
+                "flightTicketsTotal": {
+                    "items": [
+                        {
+                            "identifier": "****",
+                            "paymentCode": null,
+                            "paymentType": "OTHER",
+                            "amount": {
+                                "currency": "ARS",
+                                "value": 40112.7,
+                                "currencySymbol": "USD",
+                                "formattedValue": "ARS 40,112.70"
+                            }
+                        }
+                    ],
+                    "total": {
+                        "currency": "USD",
+                        "value": 0,
+                        "currencySymbol": "USD",
+                        "formattedValue": "USD 0"
+                    }
+                },
+                "ancillaryTicketsTotal": {
+                    "items": [],
+                    "total": null
+                },
+                "indraPayment": true
+            },
+            "migrated": true,
+            "travel": {
+                "bookingDetails": {
+                    "bookingTimeLimit": null,
+                    "bookingDate": "2024-09-11T16:50:00"
+                },
+                "startDate": "2024-10-17T17:25:00",
+                "endDate": "2024-10-17T21:40:00",
+                "items": [
+                    {
+                        "type": "FLIGHT_ITINERARY",
+                        "startDate": "2024-10-17T17:25:00",
+                        "endDate": "2024-10-17T21:40:00",
+                        "passengerIndexes": null,
+                        "originAirport": {
+                            "id": "HAV_CU_AIRPORT",
+                            "name": "Jose Marti Intl.",
+                            "city": "La Habana",
+                            "country": "Cuba",
+                            "iata": "HAV",
+                            "icao": null,
+                            "latitude": "22.989200592041016",
+                            "longitude": "-82.40910339355469",
+                            "altitude": null,
+                            "timezone": "-5.0",
+                            "dst": null,
+                            "tz": "America/Havana",
+                            "type": "AIRPORT",
+                            "source": null,
+                            "countryAlpha2": "CU"
+                        },
+                        "destinationAirport": {
+                            "id": "LIM_PE_AIRPORT",
+                            "name": "J Chavez Intl.",
+                            "city": "Lima",
+                            "country": "Perú",
+                            "iata": "LIM",
+                            "icao": null,
+                            "latitude": "-12.0219",
+                            "longitude": "-77.114305",
+                            "altitude": null,
+                            "timezone": "-5.0",
+                            "dst": null,
+                            "tz": "America/Lima",
+                            "type": "AIRPORT",
+                            "source": null,
+                            "countryAlpha2": "PE"
+                        },
+                        "durationInMinutes": 398,
+                        "i18nDuration": {
+                            "hours": 6,
+                            "minutes": 38,
+                            "value": "6 h 38 min"
+                        },
+                        "fareBasis": "KXL09GAW",
+                        "segments": [
+                            {
+                                "key": {
+                                    "origin": "HAV",
+                                    "destination": "LIM",
+                                    "departureDate": "2024-10-17T17:25:00",
+                                    "arrivalDate": "2024-10-17T21:40:00"
+                                },
+                                "flight": {
+                                    "flightNumber": 2411,
+                                    "airlineCode": "LA",
+                                    "operatingAirlineCode": "LA",
+                                    "operatingAirlineName": "LATAM AIRLINES GROUP",
+                                    "departureTerminal": null,
+                                    "arrivalTerminal": null,
+                                    "originAirport": {
+                                        "id": "HAV_CU_AIRPORT",
+                                        "name": "Jose Marti Intl.",
+                                        "city": "La Habana",
+                                        "country": "Cuba",
+                                        "iata": "HAV",
+                                        "icao": null,
+                                        "latitude": "22.989200592041016",
+                                        "longitude": "-82.40910339355469",
+                                        "altitude": null,
+                                        "timezone": "-5.0",
+                                        "dst": null,
+                                        "tz": "America/Havana",
+                                        "type": "AIRPORT",
+                                        "source": null,
+                                        "countryAlpha2": "CU"
+                                    },
+                                    "destinationAirport": {
+                                        "id": "LIM_PE_AIRPORT",
+                                        "name": "J Chavez Intl.",
+                                        "city": "Lima",
+                                        "country": "Perú",
+                                        "iata": "LIM",
+                                        "icao": null,
+                                        "latitude": "-12.0219",
+                                        "longitude": "-77.114305",
+                                        "altitude": null,
+                                        "timezone": "-5.0",
+                                        "dst": null,
+                                        "tz": "America/Lima",
+                                        "type": "AIRPORT",
+                                        "source": null,
+                                        "countryAlpha2": "PE"
+                                    },
+                                    "departureDate": "2024-10-17T17:25:00",
+                                    "arrivalDate": "2024-10-17T21:40:00",
+                                    "longDate": "jueves, 17 de octubre de 2024",
+                                    "shortDate": "jueves, 17 de octubre de 2024",
+                                    "departureTime": "17:25",
+                                    "arrivalTime": "21:40"
+                                },
+                                "aircraftLeaseText": null,
+                                "aircraft": {
+                                    "brand": "Airbus",
+                                    "equipment": "319"
+                                },
+                                "cabinClass": "Economy",
+                                "durationInMinutes": 398,
+                                "distanceInMiles": 2433,
+                                "daysDifferenceInArrivalTime": 0,
+                                "bookingClass": "T",
+                                "refundPercent": null,
+                                "hasRefunds": false,
+                                "canReschedule": false,
+                                "inContingency": false,
+                                "status": "AF",
+                                "incidentType": null,
+                                "departureDate": null,
+                                "arrivalDate": null,
+                                "sections": [
+                                    {
+                                        "originAirport": {
+                                            "id": "HAV_CU_AIRPORT",
+                                            "name": "Jose Marti Intl.",
+                                            "city": "La Habana",
+                                            "country": "Cuba",
+                                            "iata": "HAV",
+                                            "icao": null,
+                                            "latitude": "22.989200592041016",
+                                            "longitude": "-82.40910339355469",
+                                            "altitude": null,
+                                            "timezone": "-5.0",
+                                            "dst": null,
+                                            "tz": "America/Havana",
+                                            "type": "AIRPORT",
+                                            "source": null,
+                                            "countryAlpha2": "CU"
+                                        },
+                                        "destinationAirport": {
+                                            "id": "LIM_PE_AIRPORT",
+                                            "name": "J Chavez Intl.",
+                                            "city": "Lima",
+                                            "country": "Perú",
+                                            "iata": "LIM",
+                                            "icao": null,
+                                            "latitude": "-12.0219",
+                                            "longitude": "-77.114305",
+                                            "altitude": null,
+                                            "timezone": "-5.0",
+                                            "dst": null,
+                                            "tz": "America/Lima",
+                                            "type": "AIRPORT",
+                                            "source": null,
+                                            "countryAlpha2": "PE"
+                                        },
+                                        "departureDate": "2024-10-17T17:25:00",
+                                        "arrivalDate": "2024-10-17T21:40:00",
+                                        "daysDifferenceInArrivalTime": 0,
+                                        "durationInMinutes": 315,
+                                        "i18nDuration": {
+                                            "hours": 5,
+                                            "minutes": 15,
+                                            "value": "5 h 15 min"
+                                        }
+                                    }
+                                ],
+                                "stops": [],
+                                "fareRules": [],
+                                "estimatedDepartureTimeRaw": null,
+                                "estimatedArrivalTimeRaw": null,
+                                "estimatedDepartureTime": null,
+                                "estimatedArrivalTime": null,
+                                "estimatedLongDate": null,
+                                "estimatedShortDate": null,
+                                "i18nDuration": {
+                                    "hours": 6,
+                                    "minutes": 38,
+                                    "value": "6 h 38 min"
+                                },
+                                "itineraryList": [
+                                    {
+                                        "origin": {
+                                            "iataCode": "HAV",
+                                            "cityName": "La Habana",
+                                            "eventTime": "17:25",
+                                            "airportName": "Jose Marti Intl.",
+                                            "estimatedTime": null
+                                        },
+                                        "destination": {
+                                            "iataCode": "LIM",
+                                            "cityName": "Lima",
+                                            "eventTime": "21:40",
+                                            "airportName": "J Chavez Intl.",
+                                            "estimatedTime": null
+                                        },
+                                        "stops": null,
+                                        "equipment": "Airbus319",
+                                        "flightCode": "LA2411",
+                                        "aircraftLeaseText": null,
+                                        "duration": 315,
+                                        "mainDescriptionText": "",
+                                        "additionalDescriptionText": "",
+                                        "type": "leg",
+                                        "i18nDuration": {
+                                            "hours": 5,
+                                            "minutes": 15,
+                                            "value": "5 h 15 min"
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "connections": [],
+                        "shortFormatStart": "jueves, 17 de octubre de 2024",
+                        "shortFormatEnd": "jueves, 17 de octubre de 2024",
+                        "timeStart": "17:25",
+                        "timeEnd": "21:40",
+                        "fareType": null,
+                        "departureDate": "17/10/24"
+                    }
+                ],
+                "passengers": [
+                    {
+                        "index": 1,
+                        "tripPassengerId": "ADT_1",
+                        "prefix": null,
+                        "firstName": "D*****",
+                        "lastName": "Gonzalez Mugarra",
+                        "dateOfBirth": "1996-**-**",
+                        "email": "",
+                        "phones": [],
+                        "type": "ADULT",
+                        "gender": "MALE",
+                        "documentInfo": {
+                            "issuingCountry": null,
+                            "countryOfBirth": null,
+                            "issueDate": null,
+                            "documentNumber": null,
+                            "documentType": "",
+                            "nationality": null,
+                            "expirationDate": null
+                        },
+                        "frequentFlyer": [
+                            {
+                                "airline": "LA",
+                                "number": "***********",
+                                "tierLevel": "INVLD NAME FOR ACCT",
+                                "tierNumber": null
+                            }
+                        ],
+                        "emergencyContacts": [
+                            {
+                                "name": "R****** B* P**",
+                                "countryCode": "CL",
+                                "contactDetails": "**"
+                            }
+                        ],
+                        "tickets": [
+                            {
+                                "number": "0456358128385",
+                                "type": "FLIGHT",
+                                "coupons": [
+                                    {
+                                        "number": 1,
+                                        "status": "USED",
+                                        "segmentKey": {
+                                            "origin": "HAV",
+                                            "destination": "LIM",
+                                            "departureDate": "2024-10-17T17:25:00",
+                                            "arrivalDate": "2024-10-17T21:40:00"
+                                        },
+                                        "travelPartsAdditionalDetails": {
+                                            "checkedInBaggage": {
+                                                "freeBaggageAllowance": {
+                                                    "baggageRestrictions": [
+                                                        {
+                                                            "allowedUnits": null,
+                                                            "baggageName": null,
+                                                            "dimensionDescription": null,
+                                                            "weightDescription": "50 POUNDS, or 23 KILOGRAMS",
+                                                            "weightDetails": [
+                                                                {
+                                                                    "unit": "POUNDS",
+                                                                    "weight": 50
+                                                                },
+                                                                {
+                                                                    "unit": "KILOGRAMS",
+                                                                    "weight": 23
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "totalUnits": "1",
+                                                    "totalWeight": "50 POUNDS, or 23 KILOGRAMS"
+                                                },
+                                                "categoryFreeBaggageAllowance": {
+                                                    "baggageRestrictions": [
+                                                        {
+                                                            "allowedUnits": null,
+                                                            "baggageName": null,
+                                                            "dimensionDescription": null,
+                                                            "weightDescription": "50 POUNDS, or 23 KILOGRAMS",
+                                                            "weightDetails": [
+                                                                {
+                                                                    "unit": "POUNDS",
+                                                                    "weight": 50
+                                                                },
+                                                                {
+                                                                    "unit": "KILOGRAMS",
+                                                                    "weight": 23
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "totalUnits": "0",
+                                                    "totalWeight": "50 POUNDS, or 23 KILOGRAMS"
+                                                },
+                                                "excessBaggage": []
+                                            },
+                                            "carryOnBaggage": {
+                                                "freeBaggageAllowance": {
+                                                    "baggageRestrictions": [
+                                                        {
+                                                            "allowedUnits": null,
+                                                            "baggageName": null,
+                                                            "dimensionDescription": null,
+                                                            "weightDescription": "up to 26 pounds, or 12 kilograms",
+                                                            "weightDetails": [
+                                                                {
+                                                                    "unit": "pounds",
+                                                                    "weight": 26
+                                                                },
+                                                                {
+                                                                    "unit": "kilograms",
+                                                                    "weight": 12
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "totalUnits": "1",
+                                                    "totalWeight": null
+                                                },
+                                                "categoryFreeBaggageAllowance": null,
+                                                "excessBaggage": []
+                                            },
+                                            "seat": {
+                                                "code": "3E"
+                                            }
+                                        }
+                                    }
+                                ],
+                                "ticketPayment": {
+                                    "total": {
+                                        "currency": "ARS",
+                                        "value": 40112.7,
+                                        "currencySymbol": "USD",
+                                        "formattedValue": "ARS 40,112.70"
+                                    },
+                                    "detail": [
+                                        {
+                                            "identifier": null,
+                                            "paymentCode": "CASH",
+                                            "paymentType": "CASH",
+                                            "amount": {
+                                                "currency": "ARS",
+                                                "value": 40112.7,
+                                                "currencySymbol": "USD",
+                                                "formattedValue": "ARS 40,112.70"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "ancillaryDetails": null
+                            }
+                        ],
+                        "category": null
+                    }
+                ],
+                "specialServiceRequests": []
+            },
+            "pendingDocs": false,
+            "staffTravel": false,
+            "reservationOpenTicket": false,
+            "reservationWithoutItinerary": false,
+            "isRevenue": true,
+            "hasCommercialException": false,
+            "isNoShow": false,
+            "originalCountryCode": "UY",
+            "origin": "GDS",
+            "orderSplitType": "NONE"
+        },
+        "allowedActions": {
+            "exchange": {
+                "allowed": false,
+                "code": "111-01",
+                "description": "can't exchange due to used coupons",
+                "action": {
+                    "type": "NOTIFICATION_USED_COUPONS"
+                },
+                "outbound": {
+                    "allowed": false,
+                    "description": "outbound travel has used coupons"
+                },
+                "inbound": {
+                    "allowed": true,
+                    "description": null
+                }
+            },
+            "refund": {
+                "allowed": false,
+                "code": "111-13",
+                "description": "order was bought by an indirect channel",
+                "action": {
+                    "type": "REDIRECT_TO_AGENCY"
+                },
+                "outbound": {
+                    "allowed": false,
+                    "description": "redirect refund IC"
+                },
+                "inbound": {
+                    "allowed": true,
+                    "description": null
+                }
+            }
+        },
+        "origRequestTrackId": "33de3ae5-1197-44b2-93ee-7bfbfc31cffb"
+    }
+}

@@ -1,0 +1,289 @@
+{
+    "status": 200,
+    "message": "OK",
+    "data": {
+        "incident": {
+            "type": {
+                "incident": "FLIGHT_DELAYED",
+                "segmentIdx": 0,
+                "nextODIdx": 0,
+                "showUsedContingencyExperience": false,
+                "showAlert": false
+            },
+            "details": {
+                "destination": "Lima"
+            }
+        },
+        "contingencies": [
+            {
+                "origin": "HAV",
+                "destination": "LIM",
+                "incidents": [
+                    {
+                        "type": "CONTINGENCY",
+                        "incidentType": "FLIGHT_DELAYED",
+                        "origin": "HAV",
+                        "destination": "LIM",
+                        "flight": {
+                            "flight": "LA2411",
+                            "origin": "HAV",
+                            "destination": "LIM",
+                            "estimatedDepartureTime": "2024-10-17 19:35:00",
+                            "estimatedArrivalTime": null,
+                            "stopAirports": []
+                        },
+                        "previousFlight": {
+                            "flight": "LA2411",
+                            "origin": "HAV",
+                            "destination": "LIM",
+                            "estimatedDepartureTime": "2024-10-17T17:25:00",
+                            "estimatedArrivalTime": null,
+                            "stopAirports": []
+                        }
+                    }
+                ]
+            }
+        ],
+        "openODIdx": -1,
+        "itinerary": [
+            {
+                "type": "FLIGHT_ITINERARY",
+                "startDate": "2024-10-17T17:25:00",
+                "endDate": "2024-10-17T21:40:00",
+                "passengerIndexes": null,
+                "status": "FULFILLED",
+                "originAirport": {
+                    "id": "HAV_CU_AIRPORT",
+                    "name": "Jose Marti Intl.",
+                    "city": "La Habana",
+                    "country": "Cuba",
+                    "iata": "HAV",
+                    "icao": null,
+                    "latitude": "22.989200592041016",
+                    "longitude": "-82.40910339355469",
+                    "altitude": null,
+                    "timezone": "-5.0",
+                    "dst": null,
+                    "tz": "America/Havana",
+                    "type": "AIRPORT",
+                    "source": null,
+                    "countryAlpha2": "CU"
+                },
+                "destinationAirport": {
+                    "id": "LIM_PE_AIRPORT",
+                    "name": "J Chavez Intl.",
+                    "city": "Lima",
+                    "country": "Perú",
+                    "iata": "LIM",
+                    "icao": null,
+                    "latitude": "-12.0219",
+                    "longitude": "-77.114305",
+                    "altitude": null,
+                    "timezone": "-5.0",
+                    "dst": null,
+                    "tz": "America/Lima",
+                    "type": "AIRPORT",
+                    "source": null,
+                    "countryAlpha2": "PE"
+                },
+                "durationInMinutes": 398,
+                "fareBasis": "KXL09GAW",
+                "i18nDuration": {
+                    "hours": 6,
+                    "minutes": 38,
+                    "value": "6 h 38 min"
+                },
+                "segments": [
+                    {
+                        "key": {
+                            "origin": "HAV",
+                            "destination": "LIM",
+                            "departureDate": "2024-10-17T17:25:00",
+                            "arrivalDate": "2024-10-17T21:40:00"
+                        },
+                        "flight": {
+                            "flightNumber": 2411,
+                            "airlineCode": "LA",
+                            "operatingAirlineCode": "LA",
+                            "operatingAirlineName": "LATAM AIRLINES GROUP",
+                            "departureTerminal": null,
+                            "arrivalTerminal": null,
+                            "originAirport": {
+                                "id": "HAV_CU_AIRPORT",
+                                "name": "Jose Marti Intl.",
+                                "city": "La Habana",
+                                "country": "Cuba",
+                                "iata": "HAV",
+                                "icao": null,
+                                "latitude": "22.989200592041016",
+                                "longitude": "-82.40910339355469",
+                                "altitude": null,
+                                "timezone": "-5.0",
+                                "dst": null,
+                                "tz": "America/Havana",
+                                "type": "AIRPORT",
+                                "source": null,
+                                "countryAlpha2": "CU"
+                            },
+                            "destinationAirport": {
+                                "id": "LIM_PE_AIRPORT",
+                                "name": "J Chavez Intl.",
+                                "city": "Lima",
+                                "country": "Perú",
+                                "iata": "LIM",
+                                "icao": null,
+                                "latitude": "-12.0219",
+                                "longitude": "-77.114305",
+                                "altitude": null,
+                                "timezone": "-5.0",
+                                "dst": null,
+                                "tz": "America/Lima",
+                                "type": "AIRPORT",
+                                "source": null,
+                                "countryAlpha2": "PE"
+                            },
+                            "departureDate": "2024-10-17T17:25:00",
+                            "arrivalDate": "2024-10-17T21:40:00",
+                            "longDate": "jueves, 17 de octubre de 2024",
+                            "shortDate": "jueves, 17 de octubre de 2024",
+                            "departureTime": "17:25",
+                            "arrivalTime": "21:40",
+                            "flightOperatingName": "LATAM Airlines Perú"
+                        },
+                        "aircraftLeaseText": null,
+                        "aircraft": {
+                            "brand": "Airbus",
+                            "equipment": "319"
+                        },
+                        "cabinClass": "Economy",
+                        "durationInMinutes": 398,
+                        "distanceInMiles": 2433,
+                        "daysDifferenceInArrivalTime": 0,
+                        "bookingClass": "T",
+                        "refundPercent": null,
+                        "hasRefunds": false,
+                        "canReschedule": false,
+                        "inContingency": false,
+                        "status": "AF",
+                        "incidentType": null,
+                        "incident": {
+                            "type": "CONTINGENCY",
+                            "incidentType": "FLIGHT_DELAYED",
+                            "origin": "HAV",
+                            "destination": "LIM",
+                            "flight": {
+                                "flight": "LA2411",
+                                "origin": "HAV",
+                                "destination": "LIM",
+                                "estimatedDepartureTime": "2024-10-17 19:35:00",
+                                "estimatedArrivalTime": null,
+                                "stopAirports": []
+                            },
+                            "previousFlight": {
+                                "flight": "LA2411",
+                                "origin": "HAV",
+                                "destination": "LIM",
+                                "estimatedDepartureTime": "2024-10-17T17:25:00",
+                                "estimatedArrivalTime": null,
+                                "stopAirports": []
+                            }
+                        },
+                        "sections": [
+                            {
+                                "originAirport": {
+                                    "id": "HAV_CU_AIRPORT",
+                                    "name": "Jose Marti Intl.",
+                                    "city": "La Habana",
+                                    "country": "Cuba",
+                                    "iata": "HAV",
+                                    "icao": null,
+                                    "latitude": "22.989200592041016",
+                                    "longitude": "-82.40910339355469",
+                                    "altitude": null,
+                                    "timezone": "-5.0",
+                                    "dst": null,
+                                    "tz": "America/Havana",
+                                    "type": "AIRPORT",
+                                    "source": null,
+                                    "countryAlpha2": "CU"
+                                },
+                                "destinationAirport": {
+                                    "id": "LIM_PE_AIRPORT",
+                                    "name": "J Chavez Intl.",
+                                    "city": "Lima",
+                                    "country": "Perú",
+                                    "iata": "LIM",
+                                    "icao": null,
+                                    "latitude": "-12.0219",
+                                    "longitude": "-77.114305",
+                                    "altitude": null,
+                                    "timezone": "-5.0",
+                                    "dst": null,
+                                    "tz": "America/Lima",
+                                    "type": "AIRPORT",
+                                    "source": null,
+                                    "countryAlpha2": "PE"
+                                },
+                                "departureDate": "2024-10-17T17:25:00",
+                                "arrivalDate": "2024-10-17T21:40:00",
+                                "daysDifferenceInArrivalTime": 0,
+                                "durationInMinutes": 315
+                            }
+                        ],
+                        "stops": [],
+                        "fareRules": [],
+                        "i18nDuration": {
+                            "hours": 6,
+                            "minutes": 38,
+                            "value": "6 h 38 min"
+                        },
+                        "estimatedDepartureTimeRaw": null,
+                        "estimatedArrivalTimeRaw": null,
+                        "estimatedDepartureTime": null,
+                        "estimatedArrivalTime": null,
+                        "estimatedLongDate": null,
+                        "estimatedShortDate": null,
+                        "itineraryList": [
+                            {
+                                "origin": {
+                                    "iataCode": "HAV",
+                                    "cityName": "La Habana",
+                                    "eventTime": "17:25",
+                                    "airportName": "Jose Marti Intl.",
+                                    "estimatedTime": null
+                                },
+                                "destination": {
+                                    "iataCode": "LIM",
+                                    "cityName": "Lima",
+                                    "eventTime": "21:40",
+                                    "airportName": "J Chavez Intl.",
+                                    "estimatedTime": null
+                                },
+                                "stops": null,
+                                "equipment": "Airbus319",
+                                "flightCode": "LA2411",
+                                "aircraftLeaseText": null,
+                                "duration": 315,
+                                "mainDescriptionText": "",
+                                "additionalDescriptionText": "",
+                                "type": "leg",
+                                "i18nDuration": {
+                                    "hours": 5,
+                                    "minutes": 15,
+                                    "value": "5 h 15 min"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "connections": [],
+                "shortFormatStart": "jueves, 17 de octubre de 2024",
+                "shortFormatEnd": "jueves, 17 de octubre de 2024",
+                "fareType": null,
+                "brandCode": "09",
+                "changeAirportIncident": false,
+                "isOpen": false
+            }
+        ]
+    }
+}

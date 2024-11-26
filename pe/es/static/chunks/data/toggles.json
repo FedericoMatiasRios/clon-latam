@@ -1,0 +1,19 @@
+{
+    "status": 200,
+    "message": "OK",
+    "enabled": false,
+    "banner_bag": false,
+    "banner_seat": false,
+    "banner_hotel": false,
+    "banner_upsell": false,
+    "recommender_bag": true,
+    "footer_cards": true,
+    "dynamic_section": true,
+    "summary_baggage": true,
+    "hero_baggage_banner": false,
+    "modal_seat": false,
+    "hero_seat_banner": false,
+    "dynamic_zone_banner_seat": false,
+    "experiment_seat_upg": true,
+    "is_latam_flex": true
+}

@@ -1,3 +1,0 @@
-- Para cambiar la sección "banner-promotional", buscar bannerData en el archivo 341-8f3a64426c1e5dc9.js
-- Para cambiar la sección "Destinos más buscados", en [locale]-0def7c9ac52b0510.js hay una inyección de código no minificada que destaca del resto justamente por no estar minificada
-- "Descubre tu próximo viaje", "Reserva tu alojamiento" y "¡No te lo pierdas!" también deben editarse desde [locale]-0def7c9ac52b0510.js, se develó el formato de los json y se reemplazo el fetch por datos estáticos

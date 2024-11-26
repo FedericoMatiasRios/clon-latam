@@ -1,0 +1,74 @@
+{
+    "message": "OK",
+    "recommendation": {
+        "redirect": false,
+        "incidentType": "FLIGHT_DELAYED",
+        "commercialException": null,
+        "recommendations": [
+            {
+                "id": "hotel",
+                "properties": {
+                    "promotion": false,
+                    "recommendable": true,
+                    "purchased": false
+                },
+                "url": {
+                    "dynamic": "https://sp.booking.com/searchresults.html?aid=2044765&checkin=2024-10-17&checkout=2024-10-20&iata_orr=1&iata=LIM&label=uy_mis-viajes_dynamic_hotels_LA5447049FSAT&group_adults=1&group_children=0",
+                    "icons": "https://sp.booking.com/searchresults.html?aid=2044765&checkin=2024-10-17&checkout=2024-10-20&iata_orr=1&iata=LIM&label=uy_mis-viajes_icons_hotels_LA5447049FSAT&group_adults=1&group_children=0",
+                    "additional_products": "https://sp.booking.com/searchresults.html?aid=2044765&checkin=2024-10-17&checkout=2024-10-20&iata_orr=1&iata=LIM&label=uy_mis-viajes_additional_products_hotels_LA5447049FSAT&group_adults=1&group_children=0",
+                    "hero": "https://sp.booking.com/searchresults.html?aid=2044765&checkin=2024-10-17&checkout=2024-10-20&iata_orr=1&iata=LIM&label=uy_mis-viajes_hero_hotels_LA5447049FSAT&group_adults=1&group_children=0"
+                },
+                "type": [
+                    "banner",
+                    "footer_card",
+                    "dynamic_section"
+                ]
+            },
+            {
+                "id": "upg",
+                "type": []
+            },
+            {
+                "id": "car",
+                "properties": {
+                    "recommendable": false,
+                    "purchased": false
+                },
+                "url": {
+                    "dynamic": "https://www.rentalcars.com/SearchLoaderWidget.do?affiliateCode=latam_airlines&adcamp=xp-om&adplat=uy_mis-viajes_dynamic_cars_LA5447049FSAT&cor=uy&from=LIM&to=LIM&preflang=es&puDay=17&puMonth=10&puYear=2024&puHour=22&puMinute=30&doDay=22&doMonth=10&doYear=2024&doHour=15&doMinute=30&driversAge=30&prefcurrency=ARS",
+                    "additional_products": "https://www.rentalcars.com/SearchLoaderWidget.do?affiliateCode=latam_airlines&adcamp=xp-om&adplat=uy_mis-viajes_additional_products_cars_LA5447049FSAT&cor=uy&from=LIM&to=LIM&preflang=es&puDay=17&puMonth=10&puYear=2024&puHour=22&puMinute=30&doDay=22&doMonth=10&doYear=2024&doHour=15&doMinute=30&driversAge=30&prefcurrency=ARS",
+                    "hero": "https://www.rentalcars.com/SearchLoaderWidget.do?affiliateCode=latam_airlines&adcamp=xp-om&adplat=uy_mis-viajes_hero_cars_LA5447049FSAT&cor=uy&from=LIM&to=LIM&preflang=es&puDay=17&puMonth=10&puYear=2024&puHour=22&puMinute=30&doDay=22&doMonth=10&doYear=2024&doHour=15&doMinute=30&driversAge=30&prefcurrency=ARS"
+                },
+                "type": [
+                    "banner",
+                    "footer_card"
+                ]
+            },
+            {
+                "id": "ricale",
+                "url": "https://latampass.latam.com/es_ar/canjea-tus-millas/condiciones-equipaje",
+                "type": [
+                    "url"
+                ]
+            },
+            {
+                "id": "seat",
+                "properties": {
+                    "prediction": 0.15488432347774506
+                },
+                "type": [
+                    "banner"
+                ]
+            },
+            {
+                "id": "flex",
+                "properties": {
+                    "recommendable": false
+                },
+                "type": [
+                    "post-itinerary"
+                ]
+            }
+        ]
+    }
+}

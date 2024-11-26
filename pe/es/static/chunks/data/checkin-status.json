@@ -1,0 +1,61 @@
+{
+    "checkinStatus": {
+        "orderId": "LA5447049FSAT",
+        "operational": false,
+        "passengers": [
+            {
+                "passengerIndex": 1,
+                "firstname": "Daniel",
+                "lastname": "Gonzalez Mugarra",
+                "type": "ADT"
+            }
+        ],
+        "segments": [
+            {
+                "flightNumber": 2411,
+                "operationalStatus": "FLOWN",
+                "type": "ONE_WAY",
+                "origin": {
+                    "airportCode": "HAV",
+                    "countryCode": "CU"
+                },
+                "destination": {
+                    "airportCode": "LIM",
+                    "countryCode": "PE"
+                },
+                "departureDate": "2024-10-17T17:25:00",
+                "arrivalDate": "2024-10-17T21:40:00"
+            }
+        ],
+        "hasDestinationIPC": false,
+        "hasDestinationUK": false,
+        "hasSegmentsOriginOrDestinationBR": false
+    },
+    "docsStatus": {
+        "docsStatus": "OK",
+        "orderId": "LA5447049FSAT",
+        "reloc": "OQRRPI",
+        "passengersDocuments": [
+            {
+                "passengerId": "ADT_1",
+                "passengerIndex": 1,
+                "status": "OK",
+                "type": "ADT",
+                "firstName": "Daniel",
+                "lastName": "Gonzalez Mugarra",
+                "relatedPassenger": null,
+                "wasDocumentationScanned": false,
+                "ticketNumber": null,
+                "id": 1
+            }
+        ],
+        "reasons": [
+            "CHECKIN.ORDER.FLIGHT.NOT.OPERATIONAL.FLOWN"
+        ],
+        "segments": [],
+        "visaRequirements": {
+            "newZealand": false
+        },
+        "enableDocumentScan": false
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "data": {
+        "itinerary": [
+            {
+                "passengersCount": 1,
+                "summary": [
+                    {
+                        "kilograms": 0,
+                        "bagCharacteristicsType": "PERSONAL_ITEM",
+                        "count": 1
+                    },
+                    {
+                        "kilograms": 12,
+                        "bagCharacteristicsType": "CARRYON_SMALL",
+                        "count": 1
+                    },
+                    {
+                        "kilograms": 15,
+                        "bagCharacteristicsType": "CHECKED_BAGGAGE_SMALL",
+                        "count": 0
+                    },
+                    {
+                        "kilograms": 23,
+                        "bagCharacteristicsType": "CHECKED_BAGGAGE",
+                        "count": 1
+                    },
+                    {
+                        "kilograms": 45,
+                        "bagCharacteristicsType": "SPECIAL_BAGGAGE",
+                        "count": 0
+                    }
+                ]
+            }
+        ]
+    }
+}
