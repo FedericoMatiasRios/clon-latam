@@ -1,7 +1,7 @@
 [
     {
         "imageAltText": "¡Conoce nuestro nuevo Marketplace y canjea miles de productos con Millas LATAM Pass!",
-        "imageUrl": "./../../../pe/es/content/dam/latamxp/sites/promociones/zona-de-campañas/andean/zdc-2024/W42-BANNER-SHOPPINGLATAMPASS-ZDC.png",
+        "imageUrl": "./pe/es/content/damcontent/dam/latamxp/sites/promociones/zona-de-campañas/andean/zdc-2024/W42-BANNER-SHOPPINGLATAMPASS-ZDC.png",
         "ctaTarget": "_top",
         "ctaTitle": "Descubre más",
         "campaignA11yText": "¡Conoce nuestro nuevo Marketplace ✨ y canjea miles de productos con Millas LATAM Pass!",
@@ -14,7 +14,7 @@
     },
     {
         "imageAltText": "En 2025, disfruta un LATAM Pass con más opciones para ti.",
-        "imageUrl": "./../../../pe/es/content/dam/latamxp/sites/promociones/zona-de-campañas/andean/zdc-2024/W43-LATAMPASS-PE-ZDC.png",
+        "imageUrl": "./pe/es/content/damcontent/dam/latamxp/sites/promociones/zona-de-campañas/andean/zdc-2024/W43-LATAMPASS-PE-ZDC.png",
         "ctaTarget": "_top",
         "ctaTitle": "Descubre más",
         "campaignA11yText": "En 2025, disfruta un LATAM Pass con más opciones para ti.",
@@ -29,7 +29,7 @@
     },
     {
         "imageAltText": "✈️ Paquetes desde US$200 o S/752 por persona ",
-        "imageUrl": "./../../../pe/es/content/dam/latamxp/sites/promociones/zona-de-campañas/andean/zdc-2024/PE-Q4-PAQUETES-ZDC.jpg",
+        "imageUrl": "./pe/es/content/damcontent/dam/latamxp/sites/promociones/zona-de-campañas/andean/zdc-2024/PE-Q4-PAQUETES-ZDC.jpg",
         "ctaTarget": "_blank",
         "ctaTitle": "¡Arma tu paquete!",
         "campaignA11yText": "✈️ Paquetes desde US$200 o S/750 por persona",
