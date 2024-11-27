@@ -10,6 +10,3 @@ Se pueden activar o desactivar secciones desde:
 pe\es\static\chunks\data\toggle-detail.json
 pe\es\static\chunks\data\toggle.json
 pe\es\static\chunks\data\featureFlags.json
-
-Quitar o reemplazar "clon-latam", si se instala en otro directorio, de:
-pe\es\static\chunks\9338-3da8c040294c0028.js (${rootUrl}/clon-latam/pe/es/detalles)
