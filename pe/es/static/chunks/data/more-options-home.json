@@ -1,0 +1,22 @@
+[
+    {
+        "ctaTarget": "_blank",
+        "ctaLink": "https://sp.booking.com/?aid=1348433&label=pe_home_more-options_hotels_AON",
+        "ctaText": "Reservar alojamiento",
+        "ctaAltText": "Reservar alojamiento",
+        "subtitle": "Acumula millas",
+        "cardType": "hotel",
+        "title": "Acumula 3 millas por dólar gastado en la reserva de tu hotel",
+        "enabled": true
+    },
+    {
+        "ctaTarget": "_blank",
+        "ctaLink": "https://www.rentalcars.com/?affiliateCode=latam_airlines&adplat=pe_home_more-options_cars_AON",
+        "ctaText": "Alquilar un auto",
+        "ctaAltText": "Alquilar un auto",
+        "subtitle": "Acumula millas",
+        "cardType": "car",
+        "title": "Ten un auto esperando en tu próximo destino",
+        "enabled": true
+    }
+]

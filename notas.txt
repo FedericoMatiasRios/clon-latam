@@ -1,0 +1,13 @@
+Para cambiar los textos de mis-viajes y detalles:
+es-pe\web-ordermanagement\public\locales\es\common.json
+
+Para cambiar los textos del index:
+pe\es\index.html (el json se encuentra dentro)
+
+Para cambiar datos especificos o imagenes de las secciones:
+pe/es/static/chunks/data (cada json es la información de una sección en particular)
+
+Se pueden activar o desactivar secciones desde:
+pe\es\static\chunks\data\toggle-detail.json
+pe\es\static\chunks\data\toggle.json
+pe\es\static\chunks\data\featureFlags.json

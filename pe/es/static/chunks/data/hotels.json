@@ -1,0 +1,88 @@
+[
+    {
+        "hotelId": "6770604",
+        "primaryPrice": {
+            "amount": 334.73,
+            "currency": "USD"
+        },
+        "secondaryPrice": {
+            "amount": 1271.3,
+            "currency": "PEN"
+        },
+        "hotelName": "Cyan Cancun Resort & Spa",
+        "city": "Cancún",
+        "countryName": "México",
+        "stars": 4,
+        "reviewScore": 7.3,
+        "reviewWord": "Bien",
+        "photos": [
+            {
+                "tags": [
+                    "mainPhoto"
+                ],
+                "sizeOptions": [
+                    {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max300/455281686.jpg?k=f14e53ddf4b09c70a51adf544ad5d05ef4c1369627642dbaab8e4495827432bd&o=",
+                        "size": "LARGE"
+                    },
+                    {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max500/455281686.jpg?k=f14e53ddf4b09c70a51adf544ad5d05ef4c1369627642dbaab8e4495827432bd&o=",
+                        "size": "ORIGINAL"
+                    },
+                    {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/square60/455281686.jpg?k=f14e53ddf4b09c70a51adf544ad5d05ef4c1369627642dbaab8e4495827432bd&o=",
+                        "size": "SMALL"
+                    }
+                ]
+            }
+        ],
+        "url": "https://www.booking.com/hotel/mx/distinctive-cancun-amp-spa.es.html?aid=1348433&checkin=2024-12-26&checkout=2024-12-27&room1=A%2CA",
+        "nightsCount": 1,
+        "adults": 2,
+        "infants": 0,
+        "childs": 0
+    },
+    {
+        "hotelId": "1777424",
+        "primaryPrice": {
+            "amount": 208.78,
+            "currency": "USD"
+        },
+        "secondaryPrice": {
+            "amount": 792.94,
+            "currency": "PEN"
+        },
+        "hotelName": "Antigua Casona San Blas",
+        "city": "Cusco",
+        "countryName": "Perú",
+        "stars": 4,
+        "reviewScore": 9.7,
+        "reviewWord": "Excepcional",
+        "photos": [
+            {
+                "tags": [
+                    "mainPhoto"
+                ],
+                "sizeOptions": [
+                    {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max300/612560477.jpg?k=0d2805df0adfe29a7fecfc87b4bb651d58c1024c09157e8cb778619203b71b7f&o=",
+                        "size": "LARGE"
+                    },
+                    {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max500/612560477.jpg?k=0d2805df0adfe29a7fecfc87b4bb651d58c1024c09157e8cb778619203b71b7f&o=",
+                        "size": "ORIGINAL"
+                    },
+                    {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/square60/612560477.jpg?k=0d2805df0adfe29a7fecfc87b4bb651d58c1024c09157e8cb778619203b71b7f&o=",
+                        "size": "SMALL"
+                    }
+                ]
+            }
+        ],
+        "url": "https://www.booking.com/hotel/pe/antigua-casona-san-blas.es.html?aid=1348433&checkin=2024-12-06&checkout=2024-12-07&room1=A%2CA",
+        "nightsCount": 1,
+        "adults": 2,
+        "infants": 0,
+        "childs": 0
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "imageAltText": "¡Conoce nuestro nuevo Marketplace y canjea miles de productos con Millas LATAM Pass!",
+        "imageUrl": "../../../pe/es/content/dam/latamxp/sites/promociones/zona-de-campañas/andean/zdc-2024/W42-BANNER-SHOPPINGLATAMPASS-ZDC.png",
+        "ctaTarget": "_top",
+        "ctaTitle": "Descubre más",
+        "campaignA11yText": "¡Conoce nuestro nuevo Marketplace ✨ y canjea miles de productos con Millas LATAM Pass!",
+        "productTypes": [],
+        "campaignUrl": "https://shopping.latampass.latam.com/es_pe/home",
+        "enabled": true,
+        "description": "El Catálogo LATAM Pass aterriza en tus manos ahora como el Nuevo Shopping",
+        "title": "¡Conoce nuestro nuevo Marketplace ✨ y canjea miles de productos con Millas LATAM Pass!",
+        "position": 2
+    },
+    {
+        "imageAltText": "En 2025, disfruta un LATAM Pass con más opciones para ti.",
+        "imageUrl": "../../../pe/es/content/dam/latamxp/sites/promociones/zona-de-campañas/andean/zdc-2024/W43-LATAMPASS-PE-ZDC.png",
+        "ctaTarget": "_top",
+        "ctaTitle": "Descubre más",
+        "campaignA11yText": "En 2025, disfruta un LATAM Pass con más opciones para ti.",
+        "productTypes": [
+            "Miles"
+        ],
+        "campaignUrl": "https://latampass.latam.com/es_pe/reglamento-2025",
+        "enabled": true,
+        "description": "Un programa que evoluciona cada día. Conoce todas las novedades sobre Calificación y Categorías Elite.",
+        "title": "En 2025, disfruta un LATAM Pass con más opciones para ti.",
+        "position": 3
+    },
+    {
+        "imageAltText": "✈️ Paquetes desde US$200 o S/752 por persona ",
+        "imageUrl": "../../../pe/es/content/dam/latamxp/sites/promociones/zona-de-campañas/andean/zdc-2024/PE-Q4-PAQUETES-ZDC.jpg",
+        "ctaTarget": "_blank",
+        "ctaTitle": "¡Arma tu paquete!",
+        "campaignA11yText": "✈️ Paquetes desde US$200 o S/750 por persona",
+        "productTypes": [
+            "Packages"
+        ],
+        "campaignUrl": "https://latamtravel-peru.despegar.com.pe?label=pe_home_mkt-campaign_packages_aon",
+        "enabled": true,
+        "description": "Compra tu paquete y acumula Millas LATAM Pass",
+        "title": "¡Paquetes desde US$200 o S/752 por persona ✈️!",
+        "position": 2
+    }
+]

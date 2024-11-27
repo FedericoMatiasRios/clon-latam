@@ -1,0 +1,11 @@
+{
+    "creditCardOfferBr": true,
+    "creditCardOfferCl": false,
+    "creditCardOfferCo": true,
+    "creditCardOfferCustomBr": true,
+    "creditCardOfferPe": true,
+    "creditCardOfferUs": false,
+    "itauExternalFlowBr": false,
+    "customerConsentCaptureBr": true,
+    "creditCardFlowCl": true
+}

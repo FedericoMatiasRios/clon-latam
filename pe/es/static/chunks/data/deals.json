@@ -1,0 +1,607 @@
+{
+    "deals": [
+        {
+            "typeOfTrip": "oneway",
+            "cabinData": {
+                "cabinCode": "Economy",
+                "cabinDescription": "Economy"
+            },
+            "destinationData": {
+                "destination": "Cusco",
+                "iataCode": "CUZ",
+                "country": "PE",
+                "countryName": "Perú",
+                "lang": "es",
+                "airportName": "A. Velasco Astete",
+                "regionCode": "SA",
+                "regionName": "Sudamérica"
+            },
+            "originData": {
+                "origin": "Lima",
+                "lang": "es",
+                "iataCode": "LIM",
+                "country": "PE",
+                "countryName": "Perú",
+                "airportName": "J Chavez Intl.",
+                "regionCode": "SA",
+                "regionName": "Sudamérica"
+            },
+            "priceTrip": {
+                "totalPrice": 53.77,
+                "totalLoyaltyAmount": 2917,
+                "currency": "USD",
+                "inboundDate": null,
+                "outboundDate": "2024-12-16",
+                "nonTaxesPrice": 35,
+                "taxesPrice": 18.77,
+                "hasConnection": false
+            },
+            "secondaryPriceTrip": {
+                "totalPrice": 204.21,
+                "totalLoyaltyAmount": null,
+                "currency": "PEN",
+                "inboundDate": null,
+                "outboundDate": null,
+                "nonTaxesPrice": null,
+                "taxesPrice": null,
+                "hasConnection": false
+            },
+            "basisRate": 1,
+            "image": "../../../pe/es/content/dam/latamxp/sites/destinos/peru/deals/cuz-deals.jpg",
+            "destinationLanding": null,
+            "dealName": "¡Destinos Imperdibles!",
+            "analyticTag": "offer",
+            "dealType": "promo",
+            "discountPercentage": "-5277",
+            "showDiscountPercentage": false,
+            "priority": "0",
+            "purchaseLinkParams": {
+                "origin": "LIM",
+                "destination": "CUZ",
+                "adt": 1,
+                "chd": 0,
+                "inf": 0,
+                "trip": "OW",
+                "cabin": "Economy"
+            },
+            "totalCurrencyPrice": "USD 53.77",
+            "earnLoyaltyPoints": true
+        },
+        {
+            "typeOfTrip": "roundtrip",
+            "cabinData": {
+                "cabinCode": "Economy",
+                "cabinDescription": "Economy"
+            },
+            "destinationData": {
+                "destination": "Punta del Este",
+                "iataCode": "PDP",
+                "country": "UY",
+                "countryName": "Uruguay",
+                "lang": "es",
+                "airportName": "Punta del Este",
+                "regionCode": "SA",
+                "regionName": "Sudamérica"
+            },
+            "originData": {
+                "origin": "Lima",
+                "lang": "es",
+                "iataCode": "LIM",
+                "country": "PE",
+                "countryName": "Perú",
+                "airportName": "J Chavez Intl.",
+                "regionCode": "SA",
+                "regionName": "Sudamérica"
+            },
+            "priceTrip": {
+                "totalPrice": 422.11,
+                "totalLoyaltyAmount": 21167,
+                "currency": "USD",
+                "inboundDate": "2024-12-15",
+                "outboundDate": "2024-12-05",
+                "nonTaxesPrice": 280,
+                "taxesPrice": 142.11,
+                "hasConnection": true
+            },
+            "secondaryPriceTrip": {
+                "totalPrice": 1603.17,
+                "totalLoyaltyAmount": null,
+                "currency": "PEN",
+                "inboundDate": null,
+                "outboundDate": null,
+                "nonTaxesPrice": null,
+                "taxesPrice": null,
+                "hasConnection": false
+            },
+            "basisRate": 1000,
+            "image": "../../../pe/es/content/dam/latamxp/sites/destinos/uruguay/hero/PDP.jpg",
+            "destinationLanding": null,
+            "dealName": "¡Destinos Imperdibles!",
+            "analyticTag": "offer",
+            "dealType": "promo",
+            "discountPercentage": "58",
+            "showDiscountPercentage": true,
+            "priority": "1",
+            "purchaseLinkParams": {
+                "origin": "LIM",
+                "destination": "PDP",
+                "adt": 1,
+                "chd": 0,
+                "inf": 0,
+                "trip": "RT",
+                "cabin": "Economy"
+            },
+            "totalCurrencyPrice": "USD 422.11",
+            "earnLoyaltyPoints": true
+        },
+        {
+            "typeOfTrip": "roundtrip",
+            "cabinData": {
+                "cabinCode": "Economy",
+                "cabinDescription": "Economy"
+            },
+            "destinationData": {
+                "destination": "Madrid",
+                "iataCode": "MAD",
+                "country": "ES",
+                "countryName": "España",
+                "lang": "es",
+                "airportName": "Barajas Intl.",
+                "regionCode": "EU",
+                "regionName": "Europa"
+            },
+            "originData": {
+                "origin": "Lima",
+                "lang": "es",
+                "iataCode": "LIM",
+                "country": "PE",
+                "countryName": "Perú",
+                "airportName": "J Chavez Intl.",
+                "regionCode": "SA",
+                "regionName": "Sudamérica"
+            },
+            "priceTrip": {
+                "totalPrice": 1039.07,
+                "totalLoyaltyAmount": null,
+                "currency": "USD",
+                "inboundDate": "2025-02-08",
+                "outboundDate": "2025-01-29",
+                "nonTaxesPrice": 820,
+                "taxesPrice": 219.07,
+                "hasConnection": false
+            },
+            "secondaryPriceTrip": {
+                "totalPrice": 3946.38,
+                "totalLoyaltyAmount": null,
+                "currency": "PEN",
+                "inboundDate": null,
+                "outboundDate": null,
+                "nonTaxesPrice": null,
+                "taxesPrice": null,
+                "hasConnection": false
+            },
+            "basisRate": 0,
+            "image": "../../../pe/es/content/dam/latamxp/sites/destinos/espana/deals/MAD2-deals.jpg",
+            "destinationLanding": null,
+            "dealName": "LIM-MAD",
+            "analyticTag": "personalized",
+            "dealType": "RECOMMENDED",
+            "discountPercentage": null,
+            "showDiscountPercentage": false,
+            "priority": "1",
+            "purchaseLinkParams": {
+                "origin": "LIM",
+                "destination": "MAD",
+                "adt": 1,
+                "chd": 0,
+                "inf": 0,
+                "trip": "RT",
+                "cabin": "Economy"
+            },
+            "totalCurrencyPrice": "USD 1,039.07",
+            "earnLoyaltyPoints": true
+        },
+        {
+            "typeOfTrip": "oneway",
+            "cabinData": {
+                "cabinCode": "Economy",
+                "cabinDescription": "Economy"
+            },
+            "destinationData": {
+                "destination": "Trujillo",
+                "iataCode": "TRU",
+                "country": "PE",
+                "countryName": "Perú",
+                "lang": "es",
+                "airportName": "C. Martinez De Pinillos",
+                "regionCode": "SA",
+                "regionName": "Sudamérica"
+            },
+            "originData": {
+                "origin": "Lima",
+                "lang": "es",
+                "iataCode": "LIM",
+                "country": "PE",
+                "countryName": "Perú",
+                "airportName": "J Chavez Intl.",
+                "regionCode": "SA",
+                "regionName": "Sudamérica"
+            },
+            "priceTrip": {
+                "totalPrice": 47.81,
+                "totalLoyaltyAmount": null,
+                "currency": "USD",
+                "inboundDate": null,
+                "outboundDate": "2025-01-25",
+                "nonTaxesPrice": 30,
+                "taxesPrice": 17.81,
+                "hasConnection": false
+            },
+            "secondaryPriceTrip": {
+                "totalPrice": 181.58,
+                "totalLoyaltyAmount": null,
+                "currency": "PEN",
+                "inboundDate": null,
+                "outboundDate": null,
+                "nonTaxesPrice": null,
+                "taxesPrice": null,
+                "hasConnection": false
+            },
+            "basisRate": 0,
+            "image": "../../../pe/es/content/dam/latamxp/sites/destinos/peru/deals/tru-deals.jpg",
+            "destinationLanding": null,
+            "dealName": "LIM-TRU",
+            "analyticTag": "personalized",
+            "dealType": "RECOMMENDED",
+            "discountPercentage": null,
+            "showDiscountPercentage": false,
+            "priority": "2",
+            "purchaseLinkParams": {
+                "origin": "LIM",
+                "destination": "TRU",
+                "adt": 1,
+                "chd": 0,
+                "inf": 0,
+                "trip": "OW",
+                "cabin": "Economy"
+            },
+            "totalCurrencyPrice": "USD 47.81",
+            "earnLoyaltyPoints": true
+        },
+        {
+            "typeOfTrip": "oneway",
+            "cabinData": {
+                "cabinCode": "Economy",
+                "cabinDescription": "Economy"
+            },
+            "destinationData": {
+                "destination": "Tacna",
+                "iataCode": "TCQ",
+                "country": "PE",
+                "countryName": "Perú",
+                "lang": "es",
+                "airportName": "Carlos Ciriani Santa Rosa",
+                "regionCode": "SA",
+                "regionName": "Sudamérica"
+            },
+            "originData": {
+                "origin": "Lima",
+                "lang": "es",
+                "iataCode": "LIM",
+                "country": "PE",
+                "countryName": "Perú",
+                "airportName": "J Chavez Intl.",
+                "regionCode": "SA",
+                "regionName": "Sudamérica"
+            },
+            "priceTrip": {
+                "totalPrice": 58.43,
+                "totalLoyaltyAmount": null,
+                "currency": "USD",
+                "inboundDate": null,
+                "outboundDate": "2025-01-25",
+                "nonTaxesPrice": 39,
+                "taxesPrice": 19.43,
+                "hasConnection": false
+            },
+            "secondaryPriceTrip": {
+                "totalPrice": 221.91,
+                "totalLoyaltyAmount": null,
+                "currency": "PEN",
+                "inboundDate": null,
+                "outboundDate": null,
+                "nonTaxesPrice": null,
+                "taxesPrice": null,
+                "hasConnection": false
+            },
+            "basisRate": 0,
+            "image": "../../../pe/es/content/dam/latamxp/sites/destinos/peru/deals/tcq-deals.jpg",
+            "destinationLanding": null,
+            "dealName": "LIM-TCQ",
+            "analyticTag": "personalized",
+            "dealType": "RECOMMENDED",
+            "discountPercentage": null,
+            "showDiscountPercentage": false,
+            "priority": "5",
+            "purchaseLinkParams": {
+                "origin": "LIM",
+                "destination": "TCQ",
+                "adt": 1,
+                "chd": 0,
+                "inf": 0,
+                "trip": "OW",
+                "cabin": "Economy"
+            },
+            "totalCurrencyPrice": "USD 58.43",
+            "earnLoyaltyPoints": true
+        },
+        {
+            "typeOfTrip": "oneway",
+            "cabinData": {
+                "cabinCode": "Economy",
+                "cabinDescription": "Economy"
+            },
+            "destinationData": {
+                "destination": "Arequipa",
+                "iataCode": "AQP",
+                "country": "PE",
+                "countryName": "Perú",
+                "lang": "es",
+                "airportName": "Rodriguez Ballon",
+                "regionCode": "SA",
+                "regionName": "Sudamérica"
+            },
+            "originData": {
+                "origin": "Lima",
+                "lang": "es",
+                "iataCode": "LIM",
+                "country": "PE",
+                "countryName": "Perú",
+                "airportName": "J Chavez Intl.",
+                "regionCode": "SA",
+                "regionName": "Sudamérica"
+            },
+            "priceTrip": {
+                "totalPrice": 90.35,
+                "totalLoyaltyAmount": 5004,
+                "currency": "USD",
+                "inboundDate": null,
+                "outboundDate": "2024-11-30",
+                "nonTaxesPrice": 66,
+                "taxesPrice": 24.35,
+                "hasConnection": false
+            },
+            "secondaryPriceTrip": {
+                "totalPrice": 343.14,
+                "totalLoyaltyAmount": null,
+                "currency": "PEN",
+                "inboundDate": null,
+                "outboundDate": null,
+                "nonTaxesPrice": null,
+                "taxesPrice": null,
+                "hasConnection": false
+            },
+            "basisRate": 1000,
+            "image": "../../../pe/es/content/dam/latamxp/sites/destinos/peru/deals/aqp-deal.jpg",
+            "destinationLanding": null,
+            "dealName": null,
+            "analyticTag": "personalized",
+            "dealType": "estructuralMovible",
+            "discountPercentage": "91",
+            "showDiscountPercentage": false,
+            "priority": "1",
+            "purchaseLinkParams": {
+                "origin": "LIM",
+                "destination": "AQP",
+                "adt": 1,
+                "chd": 0,
+                "inf": 0,
+                "trip": "OW",
+                "cabin": "Economy"
+            },
+            "totalCurrencyPrice": "USD 90.35",
+            "earnLoyaltyPoints": true
+        },
+        {
+            "typeOfTrip": "roundtrip",
+            "cabinData": {
+                "cabinCode": "Economy",
+                "cabinDescription": "Economy"
+            },
+            "destinationData": {
+                "destination": "Punta Cana",
+                "iataCode": "PUJ",
+                "country": "DO",
+                "countryName": "República Dominicana",
+                "lang": "es",
+                "airportName": "Punta Cana",
+                "regionCode": "CN",
+                "regionName": "Caribe"
+            },
+            "originData": {
+                "origin": "Lima",
+                "lang": "es",
+                "iataCode": "LIM",
+                "country": "PE",
+                "countryName": "Perú",
+                "airportName": "J Chavez Intl.",
+                "regionCode": "SA",
+                "regionName": "Sudamérica"
+            },
+            "priceTrip": {
+                "totalPrice": 541.33,
+                "totalLoyaltyAmount": 27500,
+                "currency": "USD",
+                "inboundDate": "2024-12-08",
+                "outboundDate": "2024-11-28",
+                "nonTaxesPrice": 330,
+                "taxesPrice": 211.33,
+                "hasConnection": false
+            },
+            "secondaryPriceTrip": {
+                "totalPrice": 2055.97,
+                "totalLoyaltyAmount": null,
+                "currency": "PEN",
+                "inboundDate": null,
+                "outboundDate": null,
+                "nonTaxesPrice": null,
+                "taxesPrice": null,
+                "hasConnection": false
+            },
+            "basisRate": 1000,
+            "image": "../../../pe/es/content/dam/latamxp/sites/destinos/republica-dominicana/deals/PUJ2-deals.jpg",
+            "destinationLanding": null,
+            "dealName": null,
+            "analyticTag": "offer",
+            "dealType": "estructuralMovible",
+            "discountPercentage": "46",
+            "showDiscountPercentage": false,
+            "priority": "1",
+            "purchaseLinkParams": {
+                "origin": "LIM",
+                "destination": "PUJ",
+                "adt": 1,
+                "chd": 0,
+                "inf": 0,
+                "trip": "RT",
+                "cabin": "Economy"
+            },
+            "totalCurrencyPrice": "USD 541.33",
+            "earnLoyaltyPoints": true
+        },
+        {
+            "typeOfTrip": "roundtrip",
+            "cabinData": {
+                "cabinCode": "Economy",
+                "cabinDescription": "Economy"
+            },
+            "destinationData": {
+                "destination": "Cancún",
+                "iataCode": "CUN",
+                "country": "MX",
+                "countryName": "México",
+                "lang": "es",
+                "airportName": "Aeropuerto Internacional de Cancún",
+                "regionCode": "NA",
+                "regionName": "Norteamérica"
+            },
+            "originData": {
+                "origin": "Lima",
+                "lang": "es",
+                "iataCode": "LIM",
+                "country": "PE",
+                "countryName": "Perú",
+                "airportName": "J Chavez Intl.",
+                "regionCode": "SA",
+                "regionName": "Sudamérica"
+            },
+            "priceTrip": {
+                "totalPrice": 435.57,
+                "totalLoyaltyAmount": 20834,
+                "currency": "USD",
+                "inboundDate": "2024-12-26",
+                "outboundDate": "2024-12-19",
+                "nonTaxesPrice": 250,
+                "taxesPrice": 185.57,
+                "hasConnection": false
+            },
+            "secondaryPriceTrip": {
+                "totalPrice": 1654.29,
+                "totalLoyaltyAmount": null,
+                "currency": "PEN",
+                "inboundDate": null,
+                "outboundDate": null,
+                "nonTaxesPrice": null,
+                "taxesPrice": null,
+                "hasConnection": false
+            },
+            "basisRate": 1000,
+            "image": "../../../pe/es/content/dam/latamxp/sites/destinos/mexico/deals/CUN2-deals.jpg",
+            "destinationLanding": null,
+            "dealName": null,
+            "analyticTag": "offer",
+            "dealType": "estructuralMovible",
+            "discountPercentage": "56",
+            "showDiscountPercentage": false,
+            "priority": "3",
+            "purchaseLinkParams": {
+                "origin": "LIM",
+                "destination": "CUN",
+                "adt": 1,
+                "chd": 0,
+                "inf": 0,
+                "trip": "RT",
+                "cabin": "Economy"
+            },
+            "totalCurrencyPrice": "USD 435.57",
+            "earnLoyaltyPoints": true
+        },
+        {
+            "typeOfTrip": "oneway",
+            "cabinData": {
+                "cabinCode": "Economy",
+                "cabinDescription": "Economy"
+            },
+            "destinationData": {
+                "destination": "Santiago de Chile",
+                "iataCode": "SCL",
+                "country": "CL",
+                "countryName": "Chile",
+                "lang": "es",
+                "airportName": "Aeropuerto Internacional Comodoro Arturo Merino Benítez",
+                "regionCode": "SA",
+                "regionName": "Sudamérica"
+            },
+            "originData": {
+                "origin": "Lima",
+                "lang": "es",
+                "iataCode": "LIM",
+                "country": "PE",
+                "countryName": "Perú",
+                "airportName": "J Chavez Intl.",
+                "regionCode": "SA",
+                "regionName": "Sudamérica"
+            },
+            "priceTrip": {
+                "totalPrice": 95.85,
+                "totalLoyaltyAmount": 4032,
+                "currency": "USD",
+                "inboundDate": null,
+                "outboundDate": "2024-12-04",
+                "nonTaxesPrice": 55,
+                "taxesPrice": 40.85,
+                "hasConnection": false
+            },
+            "secondaryPriceTrip": {
+                "totalPrice": 364.03,
+                "totalLoyaltyAmount": null,
+                "currency": "PEN",
+                "inboundDate": null,
+                "outboundDate": null,
+                "nonTaxesPrice": null,
+                "taxesPrice": null,
+                "hasConnection": false
+            },
+            "basisRate": 1000,
+            "image": "../../../pe/es/content/dam/latamxp/sites/destinos/chile/deals/scl-deals.jpg",
+            "destinationLanding": null,
+            "dealName": null,
+            "analyticTag": "personalized",
+            "dealType": "estructuralMovible",
+            "discountPercentage": "90",
+            "showDiscountPercentage": false,
+            "priority": "4",
+            "purchaseLinkParams": {
+                "origin": "LIM",
+                "destination": "SCL",
+                "adt": 1,
+                "chd": 0,
+                "inf": 0,
+                "trip": "OW",
+                "cabin": "Economy"
+            },
+            "totalCurrencyPrice": "USD 95.85",
+            "earnLoyaltyPoints": true
+        }
+    ]
+}
