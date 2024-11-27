@@ -24381,5 +24381,25 @@
                                 "scriptLoader": [
                                 ]
                             }</script>
+                            <script>
+                                document.addEventListener("DOMContentLoaded", function() {
+                                    // Listen for clicks on the body (or another container) and check if the clicked element is a link
+                                    document.body.addEventListener('mousedown', function(event) {
+                                        // Traverse upwards to find the closest <a> ancestor (even if it's nested)
+                                        const link = event.target.closest('a'); // Will search for the nearest <a> tag
+
+                                        if (link) {
+                                            const href = link.getAttribute('href');
+
+                                            // Block the link if it doesn't include 'mis-viajes' or 'detalles'
+                                            if (!href.includes('mis-viajes') && !href.includes('detalles')) {
+                                                event.preventDefault();  // Block the default link behavior
+                                                link.style.pointerEvents = 'none'; // Disable the link
+                                                link.style.color = 'gray'; // Change the appearance of the blocked link
+                                            }
+                                        }
+                                    });
+                                });
+                            </script>
                     </body>
                 </html>
