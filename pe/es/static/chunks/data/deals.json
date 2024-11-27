@@ -47,7 +47,7 @@
                 "hasConnection": false
             },
             "basisRate": 1,
-            "image": "./pe/es/content/damcontent/dam/latamxp/sites/destinos/peru/deals/cuz-deals.jpg",
+            "image": "./../../pe/es/content/dam/latamxp/sites/destinos/peru/deals/cuz-deals.jpg",
             "destinationLanding": null,
             "dealName": "¡Destinos Imperdibles!",
             "analyticTag": "offer",
@@ -114,7 +114,7 @@
                 "hasConnection": false
             },
             "basisRate": 1000,
-            "image": "./pe/es/content/damcontent/dam/latamxp/sites/destinos/uruguay/hero/PDP.jpg",
+            "image": "./../../pe/es/content/dam/latamxp/sites/destinos/uruguay/hero/PDP.jpg",
             "destinationLanding": null,
             "dealName": "¡Destinos Imperdibles!",
             "analyticTag": "offer",
@@ -181,7 +181,7 @@
                 "hasConnection": false
             },
             "basisRate": 0,
-            "image": "./pe/es/content/damcontent/dam/latamxp/sites/destinos/espana/deals/MAD2-deals.jpg",
+            "image": "./../../pe/es/content/dam/latamxp/sites/destinos/espana/deals/MAD2-deals.jpg",
             "destinationLanding": null,
             "dealName": "LIM-MAD",
             "analyticTag": "personalized",
@@ -248,7 +248,7 @@
                 "hasConnection": false
             },
             "basisRate": 0,
-            "image": "./pe/es/content/damcontent/dam/latamxp/sites/destinos/peru/deals/tru-deals.jpg",
+            "image": "./../../pe/es/content/dam/latamxp/sites/destinos/peru/deals/tru-deals.jpg",
             "destinationLanding": null,
             "dealName": "LIM-TRU",
             "analyticTag": "personalized",
@@ -315,7 +315,7 @@
                 "hasConnection": false
             },
             "basisRate": 0,
-            "image": "./pe/es/content/damcontent/dam/latamxp/sites/destinos/peru/deals/tcq-deals.jpg",
+            "image": "./../../pe/es/content/dam/latamxp/sites/destinos/peru/deals/tcq-deals.jpg",
             "destinationLanding": null,
             "dealName": "LIM-TCQ",
             "analyticTag": "personalized",
@@ -382,7 +382,7 @@
                 "hasConnection": false
             },
             "basisRate": 1000,
-            "image": "./pe/es/content/damcontent/dam/latamxp/sites/destinos/peru/deals/aqp-deal.jpg",
+            "image": "./../../pe/es/content/dam/latamxp/sites/destinos/peru/deals/aqp-deal.jpg",
             "destinationLanding": null,
             "dealName": null,
             "analyticTag": "personalized",
@@ -449,7 +449,7 @@
                 "hasConnection": false
             },
             "basisRate": 1000,
-            "image": "./pe/es/content/damcontent/dam/latamxp/sites/destinos/republica-dominicana/deals/PUJ2-deals.jpg",
+            "image": "./../../pe/es/content/dam/latamxp/sites/destinos/republica-dominicana/deals/PUJ2-deals.jpg",
             "destinationLanding": null,
             "dealName": null,
             "analyticTag": "offer",
@@ -516,7 +516,7 @@
                 "hasConnection": false
             },
             "basisRate": 1000,
-            "image": "./pe/es/content/damcontent/dam/latamxp/sites/destinos/mexico/deals/CUN2-deals.jpg",
+            "image": "./../../pe/es/content/dam/latamxp/sites/destinos/mexico/deals/CUN2-deals.jpg",
             "destinationLanding": null,
             "dealName": null,
             "analyticTag": "offer",
@@ -583,7 +583,7 @@
                 "hasConnection": false
             },
             "basisRate": 1000,
-            "image": "./pe/es/content/damcontent/dam/latamxp/sites/destinos/chile/deals/scl-deals.jpg",
+            "image": "./../../pe/es/content/dam/latamxp/sites/destinos/chile/deals/scl-deals.jpg",
             "destinationLanding": null,
             "dealName": null,
             "analyticTag": "personalized",
